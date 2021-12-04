@@ -6,7 +6,9 @@ Group members : Harkirat Kaur & Pauline Dhenin
 # Summary 
  - [Problematic](#Problematic)
  - [Workflow](#Worflow)
- - [Dataset]
+ - [Datasets](#Datasets)
+ - [Usefull links](#Usefull_links)
+
 ## Problematic 
 In this project, the problematic we analyzed is the following : the evolution of Netflix content by countries and by genres in time  
 
